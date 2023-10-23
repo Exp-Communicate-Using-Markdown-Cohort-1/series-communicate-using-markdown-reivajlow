@@ -8,3 +8,4 @@
 
 ###### Soy un estudiante de quinto año de Ingeniería en Estadística con pasión por la ciencia de datos y el machine learning. Me he formado en diversas áreas de la estadística, como el análisis exploratorio, la inferencia, el modelado, la simulación y la optimización(si!, todo acompañado de mucha programación!!!). También tengo 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
